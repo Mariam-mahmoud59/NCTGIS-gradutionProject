@@ -1,0 +1,21 @@
+# Neon & Environment secrets
+.neon/
+.env.local
+.env
+
+# Node & TypeScript builds
+node_modules/
+dist/
+npm-debug.log*
+
+# Python & Django
+__pycache__/
+*.py[cod]
+*$py.class
+backend/venv/
+venv/
+*.sqlite3
+
+# Operating System files
+.DS_Store
+Thumbs.db

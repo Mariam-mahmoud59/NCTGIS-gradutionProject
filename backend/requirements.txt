@@ -1,0 +1,12 @@
+# Django & REST Framework Backend Dependencies
+django>=4.2,<5.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.0.0
+
+# Spatial Database & GIS Support (GeoDjango & GDAL)
+psycopg2-binary>=2.9.0
+
+# Utilities & Requests for Google Earth Engine / API integrations
+requests>=2.31.0
+numpy>=1.24.0
+pandas>=2.0.0
